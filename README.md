@@ -3,8 +3,8 @@
 # Terminal:
 
 ## Preference:
-dev-setup/preference_color.png
-
+![](/preference_color.jpg)
+![](/preference_command.jpg)
 
 ## Include current path in the title for terminal
 Edit - vim ~/.bashrc
