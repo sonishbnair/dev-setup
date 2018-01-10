@@ -3,7 +3,7 @@
 # Terminal:
 
 ## Preference:
-dev-setup/preference_command.jpg
+![alt text](dev-setup/preference_command.jpg "Terminal command preference")
 ![alt tag](dev-setup/preference_color.jpg "Terminal preference - color")
 
 ## Include current path in the title for terminal
