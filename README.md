@@ -3,8 +3,8 @@
 # Terminal:
 
 ## Preference:
-![alt text](dev-setup/preference_command.jpg "Terminal command preference")
-![alt tag](dev-setup/preference_color.jpg "Terminal preference - color")
+dev-setup/preference_color.png
+
 
 ## Include current path in the title for terminal
 Edit - vim ~/.bashrc
