@@ -13,3 +13,6 @@
 
 # Python virtualenv          
 [Python - Virtual Environment](https://github.com/sonishbnair/dev-setup/wiki/Python---Virtual-Environment)
+
+# Tips and Tricks
+[Tips and Tricks](https://github.com/sonishbnair/dev-setup/wiki/Tips-and-Tricks)
