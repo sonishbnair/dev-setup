@@ -16,3 +16,6 @@
 
 # Tips and Tricks
 [Tips and Tricks](https://github.com/sonishbnair/dev-setup/wiki/Tips-and-Tricks)
+
+# Mac Setup
+[Mac Setup](https://github.com/sonishbnair/dev-setup/wiki/Mac-Setup)
