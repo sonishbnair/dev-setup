@@ -10,6 +10,8 @@
 1 .Edit - vim ~/.bashrc                           
 2 .Add - PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME}: ${PWD}\007"'
 
+# Python Developer toolkit
+[Python Developer toolkit] (https://github.com/sonishbnair/dev-setup/wiki/Python-Developer-toolkit)
 
 # Python virtualenv          
 [Python - Virtual Environment](https://github.com/sonishbnair/dev-setup/wiki/Python---Virtual-Environment)
